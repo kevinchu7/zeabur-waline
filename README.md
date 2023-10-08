@@ -1,1 +1,1 @@
-# zeabur-starter
+# zeabur-starter for walinejs
